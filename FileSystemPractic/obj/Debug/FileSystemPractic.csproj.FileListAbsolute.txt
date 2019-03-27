@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\FileSystemPractic\FileSystemPractic\bin\Debug\FileSystemPractic.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\FileSystemPractic\FileSystemPractic\bin\Debug\FileSystemPractic.exe
+c:\users\admin\documents\visual studio 2015\Projects\FileSystemPractic\FileSystemPractic\bin\Debug\FileSystemPractic.pdb
+c:\users\admin\documents\visual studio 2015\Projects\FileSystemPractic\FileSystemPractic\obj\Debug\FileSystemPractic.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\FileSystemPractic\FileSystemPractic\obj\Debug\FileSystemPractic.exe
+c:\users\admin\documents\visual studio 2015\Projects\FileSystemPractic\FileSystemPractic\obj\Debug\FileSystemPractic.pdb
