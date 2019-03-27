@@ -1,0 +1,7 @@
+C:\Users\СкоропадИг.CORP\source\repos\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\СкоропадИг.CORP\source\repos\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\СкоропадИг.CORP\source\repos\Statistics\Statistics\obj\Debug\Statistics.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\Statistics\Statistics\obj\Debug\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\СкоропадИг.CORP\source\repos\Statistics\Statistics\obj\Debug\Statistics.pdb
