@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\bin\Debug\DotNetXmlHttpRequest.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.pdb
